@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 
-package gestion_ecole_pro;
-
 /**
  *
  * @author Ahmed
