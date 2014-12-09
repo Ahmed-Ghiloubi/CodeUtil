@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 
-package gestion_ecole_pro;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
