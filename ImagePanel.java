@@ -23,7 +23,7 @@ public class ImagePanel extends JPanel{
 
     public ImagePanel() {
        try {                
-          image = ImageIO.read(getClass().getResource("contact.png"));
+          image = ImageIO.read(getClass().getResource("Image_to_show.png"));
        } catch (IOException ex) {
             // handle exception...
        }
